@@ -1,0 +1,10 @@
+DXF_bot v1.0.0  
+Copyright (c) 2025 Michael Schiebler  
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+You may share and modify this software **for non-commercial purposes only**.  
+Commercial use, including selling, distributing, or profiting from this software, is strictly prohibited.  
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode  
+
+By using this software, you agree to these terms.  
